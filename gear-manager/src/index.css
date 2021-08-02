@@ -40,14 +40,6 @@ body {
   padding-bottom: 40px;
 }
 
-.gearRow {
-  display: flex;
-}
-
-.gearRow span {
-  width: 150px;
-  padding-right: 25px;
-}
 
 .header {
   margin-top: 20px;
@@ -60,4 +52,22 @@ body {
 .header span:hover {
   text-decoration: underline;
   cursor: pointer;
+}
+
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: gray;
+  color: white;
 }

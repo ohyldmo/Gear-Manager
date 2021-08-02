@@ -6,6 +6,7 @@
     {"name": "Kayak rods", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "Kayak Backpack", "isPacked": false, "weight": 300, "tags": ["kayaking"], "notes": [], "needsReview": false},
     {"name": "Kayak pump", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "Kayak Backpack", "isPacked": false, "weight": 300, "tags": ["kayaking"], "notes": [], "needsReview": false},
     {"name": "Skeg", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "Kayak backpack", "isPacked": false, "weight": 0, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "CRF300 Rally", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "n/a", "isPacked": false, "weight": 0, "tags": ["Motorcycle"], "notes": [], "needsReview": false},
     
     {"name": "Greenland paddle", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Paddle bag", "isPacked": false, "weight": 770, "tags": ["kayaking"], "notes": [], "needsReview": false},
     {"name": "Werner paddle", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 1200, "tags": ["kayaking"], "notes": [], "needsReview": false},

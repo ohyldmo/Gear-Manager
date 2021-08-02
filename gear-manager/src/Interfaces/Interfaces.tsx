@@ -11,5 +11,5 @@ interface GearItem {
     notes: string[], 
     needsReview: boolean
   }
-
+// @ts-ignore 
   export {GearItem}

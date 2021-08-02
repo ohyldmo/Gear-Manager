@@ -26,11 +26,23 @@ function GearOverview (props:Props) {
                     
                     return  <div>
                                 <h3>{category} <button>+</button></h3>
-                                {allGear.map((gear:GearItem) => {
-                                    if (gear.category === category) {
-                                        return <GearItemRow gear={gear}/>
-                                    }
-                                })}
+                    <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th><th>Is Packed</th><th>Weight</th><th>Packed Location</th><th>Storage Location</th><th>Tags</th><th>Notes</th><th>Requires Review</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {allGear.map((gear:GearItem) => {
+                                        if (gear.category === category) {
+                                            return <GearItemRow gear={gear}/>
+                                        }
+                                    })}
+                    </tbody>
+                </table>
+
+
+                                
                             </div>
                 
                 })}
