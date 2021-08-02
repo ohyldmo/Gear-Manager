@@ -1,0 +1,39 @@
+[
+    {"name": "Kayak hull", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "Kayak Backpack", "isPacked": false, "weight": 15000, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Kayak front brace", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "Kayak Backpack", "isPacked": false, "weight": 300, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Kayak back brace", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "Kayak Backpack", "isPacked": false, "weight": 300, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Kayak seat", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "Kayak Backpack", "isPacked": false, "weight": 400, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Kayak rods", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "Kayak Backpack", "isPacked": false, "weight": 300, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Kayak pump", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "Kayak Backpack", "isPacked": false, "weight": 300, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Skeg", "category": "Vehicle", "storageLocation": "Garage", "packedLocation": "Kayak backpack", "isPacked": false, "weight": 0, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    
+    {"name": "Greenland paddle", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Paddle bag", "isPacked": false, "weight": 770, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Werner paddle", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 1200, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "PFD", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak Backpack", "isPacked": false, "weight": 480, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Oar float", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 400, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Drysuit", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 1820, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Bilge pump", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 390, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Sponge", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 60, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Drybag 30l", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 770, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Drybag 40l", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 860, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Quick release knife", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 0, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Helmet", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 0, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Wet shoes", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 440, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Wet gloves", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 80, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Spray cover", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 490, "tags": ["kayaking"], "notes": [], "needsReview": false},    
+    {"name": "Oar string", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 20, "tags": ["kayaking"], "notes": [], "needsReview": false},
+    {"name": "Throwing rope", "category": "Paddling Gear", "storageLocation": "Garage", "packedLocation": "Kayak bag", "isPacked": false, "weight": 80, "tags": ["kayaking"], "notes": [], "needsReview": false},
+
+
+    {"name": "Tent", "category": "Shelter", "storageLocation": "Storage room", "packedLocation": "", "isPacked": false, "weight": 2700, "tags": ["shelter", "kayaking", "hiking"], "notes": [], "needsReview": false},
+    {"name": "Hammock", "category": "Shelter", "storageLocation": "Storage room", "packedLocation": "", "isPacked": false, "weight": 0, "tags": ["shelter", "kayaking", "hiking"], "notes": [], "needsReview": false},
+    {"name": "Tarp", "category": "Shelter", "storageLocation": "Storage room", "packedLocation": "", "isPacked": false, "weight": 0, "tags": ["shelter", "kayaking", "hiking", "daytrip"], "notes": [], "needsReview": false},
+    {"name": "Sleeping bag", "category": "Shelter", "storageLocation": "Storage room", "packedLocation": "", "isPacked": false, "weight": 1730, "tags": ["shelter", "kayaking", "hiking"], "notes": [], "needsReview": false},
+    
+    {"name": "GoPro", "category": "Camera", "storageLocation": "Wrong fucking city", "packedLocation": "", "isPacked": false, "weight": 120, "tags": ["electronics"], "notes": [], "needsReview": false},
+    {"name": "Powerbank", "category": "Batteries", "storageLocation": "Tech bucket", "packedLocation": "", "isPacked": false, "weight": 230, "tags": ["electronics"], "notes": [], "needsReview": false},
+    
+    {"name": "Compass", "category": "Navigation", "storageLocation": "70l Backpack", "packedLocation": "", "isPacked": false, "weight": 0, "tags": ["navigation"], "notes": [], "needsReview": false},
+    {"name": "Maps", "category": "Navigation", "storageLocation": "70l Backpack", "packedLocation": "", "isPacked": false, "weight": 0, "tags": ["navigation"], "notes": [], "needsReview": false},
+    {"name": "GPS", "category": "Navigation", "storageLocation": "70l Backpack", "packedLocation": "", "isPacked": false, "weight": 0, "tags": ["navigation", "electronics"], "notes": [], "needsReview": false}    
+]   
